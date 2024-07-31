@@ -16,12 +16,13 @@ To set up the project, ensure you have Python 3.x installed. Clone the repositor
 git clone https://github.com/SudoEmad/IntelligentQuantumTransmutation.git
 cd IntelligentQuantumTransmutation
 pip3 install -r requirements.txt
-
+```
 ## Usage example
 
 Here’s a basic example of how to use the project:
 
-```python
+**Python**:
+```sh
 from iqt_algorithm import main
 
 if __name__ == "__main__":
