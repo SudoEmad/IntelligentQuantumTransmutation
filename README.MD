@@ -1,10 +1,10 @@
 # Intelligent Quantum Transmutation
 
-> An innovative framework that combines quantum mechanics, artificial intelligence, and complex systems theory to transform material states at a quantum level.
+> An innovative framework that combines quantum mechanics, artificial intelligence, and complex systems theory to transform material states at a quantum level and now includes a basic decryption feature.
 
 [![Python Version][python-image]][python-url]
 
-**Intelligent Quantum Transmutation (IQT)** integrates cutting-edge concepts from quantum mechanics, artificial intelligence, and complex systems theory to enable advanced material state transformations. This project provides foundational code to demonstrate and explore these concepts.
+**Intelligent Quantum Transmutation (IQT)** integrates cutting-edge concepts from quantum mechanics, artificial intelligence, and complex systems theory to enable advanced material state transformations. This project provides foundational code to demonstrate and explore these concepts and now includes a basic decryption feature.
 
 ![](header.png)  <!-- Ensure you have a header image or remove this line -->
 
@@ -53,8 +53,11 @@ To set up the development environment, follow these steps:
 
 ## Release History
 
-* **0.0.1**
-    * Initial release with basic quantum state transformation and AI integration
+* **V0.0.1-alpha**
+    * Initial release with basic quantum state transformation and AI integration.
+
+* **V0.0.2-alpha**
+    * Added a basic decryption feature.
 
 ## Meta
 
