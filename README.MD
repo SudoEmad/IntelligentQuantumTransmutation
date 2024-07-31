@@ -70,9 +70,5 @@ Distributed under the MIT license. See the [LICENSE](LICENSE) file for more info
 <!-- Markdown link & img dfn's -->
 [python-image]: https://img.shields.io/badge/python-3.x-blue.svg
 [python-url]: https://www.python.org/
-[downloads-image]: https://img.shields.io/pypi/dm/your-package.svg
-[downloads-url]: https://pypi.org/project/your-package/
-[travis-image]: https://img.shields.io/travis/yourusername/IntelligentQuantumTransmutation/master.svg
-[travis-url]: https://travis-ci.org/yourusername/IntelligentQuantumTransmutation
-[wiki]: https://github.com/yourusername/IntelligentQuantumTransmutation/wiki
+[wiki]: https://github.com/SudoEmad/IntelligentQuantumTransmutation/wiki
 ```
