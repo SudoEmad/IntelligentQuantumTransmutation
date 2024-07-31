@@ -1,6 +1,3 @@
-### **`README.md`**
-
-```markdown
 # Intelligent Quantum Transmutation
 
 > An innovative framework that combines quantum mechanics, artificial intelligence, and complex systems theory to transform material states at a quantum level.
@@ -21,7 +18,6 @@ To set up the project, ensure you have Python 3.x installed. Clone the repositor
 git clone https://github.com/SudoEmad/IntelligentQuantumTransmutation.git
 cd IntelligentQuantumTransmutation
 pip install -r requirements.txt
-```
 
 ## Usage example
 
