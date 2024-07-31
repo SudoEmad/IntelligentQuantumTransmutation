@@ -19,7 +19,13 @@
 
 ## How to Run
 
-1. **Clone the repository**:git clone https://github.com/yourusername/IntelligentQuantumTransmutation.git2. **Navigate to the project directory**:cd IntelligentQuantumTransmutation3. **Run the main script**:python iqt_algorithm.py4. **Experiment**: Modify parameters in the code to explore different quantum transformations and system adaptations.
+1. **Clone the repository**:
+`git clone https://github.com/SudoEmad/IntelligentQuantumTransmutation.git `
+2. **Navigate to the project directory**:
+`cd IntelligentQuantumTransmutation3`
+3. **Run the main script**:
+`python3 iqt_algorithm.py`
+4. **Experiment**: Modify parameters in the code to explore different quantum transformations and system adaptations.
 
 ## Contribution
 
