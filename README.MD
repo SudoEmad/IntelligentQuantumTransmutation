@@ -3,8 +3,6 @@
 > An innovative framework that combines quantum mechanics, artificial intelligence, and complex systems theory to transform material states at a quantum level.
 
 [![Python Version][python-image]][python-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][downloads-image]][downloads-url]
 
 **Intelligent Quantum Transmutation (IQT)** integrates cutting-edge concepts from quantum mechanics, artificial intelligence, and complex systems theory to enable advanced material state transformations. This project provides foundational code to demonstrate and explore these concepts.
 
