@@ -17,6 +17,12 @@ git clone https://github.com/SudoEmad/IntelligentQuantumTransmutation.git
 cd IntelligentQuantumTransmutation
 pip3 install -r requirements.txt
 ```
+
+Run the main script:
+   ```sh
+   python3 iqt_algorithm.py
+   ```
+
 ## Usage example
 
 Here’s a basic example of how to use the project:
