@@ -12,10 +12,14 @@
 
 ## Project Structure
 
-- `quantum_module.py`: Manages quantum state transformations and simulations.
-- `ai_module.py`: Implements AI algorithms for decision-making and learning based on quantum state behavior.
-- `complex_systems_module.py`: Simulates and adapts complex systems in response to quantum transformations.
-- `iqt_algorithm.py`: Main script that ties together all components to perform an Intelligent Quantum Transmutation.
+- `quantum_module.py`: 
+Manages quantum state transformations and simulations.
+- `ai_module.py`: 
+Implements AI algorithms for decision-making and learning based on quantum state behavior.
+- `complex_systems_module.py`: 
+Simulates and adapts complex systems in response to quantum transformations.
+- `iqt_algorithm.py`: 
+Main script that ties together all components to perform an Intelligent Quantum Transmutation.
 
 ## How to Run
 
