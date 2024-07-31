@@ -56,7 +56,7 @@ Emad – Discord: @premuim
 
 Distributed under the MIT license. See the [LICENSE](LICENSE) file for more information.
 
-[IntelligentQuantumTransmutation](https://github.com/SudoEmad/IntelligentQuantumTransmutation)
+[IntelligentQuantumTransmutation](https://github.com/SudoEmad/IntelligentQuantumTransmutation).
 
 ## Contributing
 
