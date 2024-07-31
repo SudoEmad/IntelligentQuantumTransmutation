@@ -47,7 +47,7 @@ To set up the development environment, follow these steps:
 
 ## Release History
 
-* **1.0.0**
+* **0.0.1**
     * Initial release with basic quantum state transformation and AI integration
 
 ## Meta
