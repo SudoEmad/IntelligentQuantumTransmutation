@@ -61,7 +61,7 @@ Distributed under the MIT license. See the [LICENSE](LICENSE) file for more info
 
 ## Contributing
 
-1. Fork it (<https://github.com/SudoEmad/IntelligentQuantumTransmutation/fork>)
+1. [Fork it](https://github.com/SudoEmad/IntelligentQuantumTransmutation/fork)
 2. Create your feature branch (`git checkout -b feature/newFeature`)
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature/newFeature`)
