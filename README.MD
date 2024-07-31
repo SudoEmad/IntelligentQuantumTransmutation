@@ -73,7 +73,7 @@ git commit -am 'Add new feature'
 ```sh
 git push origin feature/newFeature
 ```
-5. Create a new Pull Request
+5. Create a new Pull Request.
 
 <!-- Markdown link & img dfn's -->
 [python-image]: https://img.shields.io/badge/python-3.x-blue.svg
