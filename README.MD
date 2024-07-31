@@ -15,7 +15,7 @@ To set up the project, ensure you have Python 3.x installed. Clone the repositor
 ```sh
 git clone https://github.com/SudoEmad/IntelligentQuantumTransmutation.git
 cd IntelligentQuantumTransmutation
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 ## Usage example
 
@@ -36,7 +36,7 @@ To set up the development environment, follow these steps:
 
 1. **Install development dependencies**:
     ```sh
-    pip install -r requirements-dev.txt
+    pip3 install -r requirements-dev.txt
     ```
 
 2. **Run tests**:
@@ -48,8 +48,6 @@ To set up the development environment, follow these steps:
 
 * **1.0.0**
     * Initial release with basic quantum state transformation and AI integration
-* **0.1.0**
-    * Initial development setup and project structure
 
 ## Meta
 
