@@ -25,13 +25,16 @@ Main script that ties together all components to perform an Intelligent Quantum 
 
 1. **Clone the repository**:
 
-git clone https://github.com/SudoEmad/IntelligentQuantumTransmutation.git 
+`git clone https://github.com/SudoEmad/IntelligentQuantumTransmutation.git `
+
 2. **Navigate to the project directory**:
 
-cd IntelligentQuantumTransmutation3
+`cd IntelligentQuantumTransmutation`
+
 3. **Run the main script**:
 
-python3 iqt_algorithm.py
+`python3 iqt_algorithm.py`
+
 4. **Experiment**: Modify parameters in the code to explore different quantum transformations and system adaptations.
 
 ## Contribution
